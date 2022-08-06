@@ -18,3 +18,7 @@ class Solution:
             if(count==len(strs)-1):
                 ans+=strs[j][i]
         return ans
+  
+
+# Time Complexity  : 70ms
+# Space Complexity : 14.1 MB
